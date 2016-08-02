@@ -11,7 +11,8 @@ Target can be ALL or a specific computer. If multiple computers are targeted, th
 If you wish to have multiple alerts separate them with a ¿ (ALT+168). 
 The database is in MySQL and a php page pulls from it. The database table structure is:
 
-```Column  Type    Comment
+```
+Column  Type    Comment
 id  int(11) Auto Increment   
 Title   varchar(64)  
 Message varchar(256)     
